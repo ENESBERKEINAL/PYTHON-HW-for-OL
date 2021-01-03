@@ -27,7 +27,7 @@ Hata yakalama..
 • Programı try-except ile birlikte yazınız.
 
 ---------------------  7. Hw is:  --------------------
-Listeler kodlar mevcut.
+Listeler kodlar mevcut. 
 
 
 
