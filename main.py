@@ -37,7 +37,14 @@ Sonrasında kitap aramasını fonsiyon ile yapan,
 Kitap adına "x" yazınca çıkışı fonksiyon ile yapan
 ve hata vermemesi için try bloğu içinde olan Programı yazınız.
 
-
+----------------------  9. Hw is  -----------------------
+Yönergeler
+1. Kullanıcı tarafından müşteri bilgilerinin girildiği (ekleme),
+2. Müşteri listesinden rastgele birisini veren (listeleme),
+3. Ekleme ve listelemeyi fonksiyon olarak yapan ve hatalar için try kullanılan,
+4. Bu işlemleri yapan programı, modül olarak çağıran,
+   (toplamda 2 dosya)
+5. Programı yazınız.
 
 
 
