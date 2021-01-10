@@ -45,7 +45,7 @@ Yönergeler
 4. Bu işlemleri yapan programı, modül olarak çağıran,
    (toplamda 2 dosya)
 5. Programı yazınız.
-
+It will be 2 different modules include to other.
 
 
 """
