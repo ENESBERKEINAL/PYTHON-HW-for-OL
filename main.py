@@ -30,6 +30,12 @@ Hata yakalama..
 Listeler kodlar mevcut.
 in
 
+----------------------  8. Hw is  ----------------------
+Yönergeler
+Bir kütüphaneye yeni 5 adet kitap kaydı alan ve onları sözlük olarak tutan fonkisyon ile,
+Sonrasında kitap aramasını fonsiyon ile yapan,
+Kitap adına "x" yazınca çıkışı fonksiyon ile yapan
+ve hata vermemesi için try bloğu içinde olan Programı yazınız.
 
 
 
