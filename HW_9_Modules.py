@@ -1,3 +1,7 @@
-import Module
-Module.add()
-Module.show()
+try:
+    import Module
+    Module.add()
+    Module.show()
+except:
+    print("Error")
+    raise
